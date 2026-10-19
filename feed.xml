@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Blog — Erick Paluan</title>
+  <link>https://erickpaluan.com.br/blog</link>
+  <atom:link href="https://erickpaluan.com.br/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Anotações sobre design, tecnologia e trabalho.</description>
+  <language>pt-BR</language>
+  <item>
+    <title>Exemplo de formatação</title>
+    <link>https://erickpaluan.com.br/blog/exemplo-de-formatacao</link>
+    <guid isPermaLink="true">https://erickpaluan.com.br/blog/exemplo-de-formatacao</guid>
+    <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Rascunho de teste que mostra como cada elemento do Markdown aparece no blog. Apague quando quiser.</description>
+    <category>exemplo</category>
+    <category>estudos</category>
+  </item>
+  <item>
+    <title>Por que resolvi começar a escrever</title>
+    <link>https://erickpaluan.com.br/blog/por-que-resolvi-comecar-a-escrever</link>
+    <guid isPermaLink="true">https://erickpaluan.com.br/blog/por-que-resolvi-comecar-a-escrever</guid>
+    <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Um espaço para organizar ideias e registrar aprendizados.</description>
+    <category>reflexões</category>
+    <category>aprendizado</category>
+  </item>
+</channel>
+</rss>

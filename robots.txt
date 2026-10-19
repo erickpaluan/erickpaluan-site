@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erickpaluan.com.br/sitemap.xml

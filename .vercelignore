@@ -1,0 +1,9 @@
+# Não publicar: fonte do blog (inclui rascunhos), ferramentas de build e prévia local
+posts
+scripts
+.preview
+build.js
+package.json
+package-lock.json
+README.md
+node_modules
