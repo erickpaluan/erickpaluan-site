@@ -1,7 +1,7 @@
 ---
-title: Cuidando de algumas coisas – o dia em que redesenhei a tela de atualização do Windows 10 Mobile
-date: 2016-01-27
-description: Em janeiro de 2016 redesenhei a tela de atualização do Windows 10 Mobile para unificá-la com o desktop, e um funcionário da Microsoft respondeu em 14 minutos.
+title: Redesenhando a tela de atualização do Windows 10 Mobile
+date: 2026-10-13
+description: Em 2016 redesenhei a tela de atualização do Windows 10 Mobile para unificá-la com o desktop, e um funcionário da Microsoft respondeu em 14 minutos.
 tags: design, projetos, carreira
 image: capa-conceito-win10mobile.jpg
 image-alt: Lumia amarelo sobre uma superfície de madeira exibindo a tela Cuidando de algumas coisas do conceito de atualização do Windows 10 Mobile
