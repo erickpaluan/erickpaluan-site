@@ -5,7 +5,7 @@ description: Rascunho de teste que mostra como cada elemento do Markdown aparece
 tags: exemplo, estudos
 image: exemplo.jpg
 image-alt: Fundo azul com círculos concêntricos
-draft: false
+draft: true
 ---
 
 Este é um parágrafo com **negrito**, *itálico*, `código em linha` e um [link](https://erickpaluan.com.br).

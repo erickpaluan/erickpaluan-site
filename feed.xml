@@ -7,13 +7,14 @@
   <description>Anotações sobre design, tecnologia e trabalho.</description>
   <language>pt-BR</language>
   <item>
-    <title>Exemplo de formatação</title>
-    <link>https://erickpaluan.com.br/blog/exemplo-de-formatacao</link>
-    <guid isPermaLink="true">https://erickpaluan.com.br/blog/exemplo-de-formatacao</guid>
-    <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-    <description>Rascunho de teste que mostra como cada elemento do Markdown aparece no blog. Apague quando quiser.</description>
-    <category>exemplo</category>
-    <category>estudos</category>
+    <title>shhh... let&#39;s not leak our hard work – o wallpaper mais simples (e mais baixado) que já fiz</title>
+    <link>https://erickpaluan.com.br/blog/shhh</link>
+    <guid isPermaLink="true">https://erickpaluan.com.br/blog/shhh</guid>
+    <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
+    <description>Achei uma frase interna das builds do Windows 8, combinei com o wallpaper do Windows 10 e o resultado passou de 30 mil downloads no WallpaperHub.</description>
+    <category>design</category>
+    <category>projetos</category>
+    <category>reflexoes</category>
   </item>
   <item>
     <title>Por que resolvi começar a escrever</title>
@@ -23,6 +24,16 @@
     <description>Um espaço para organizar ideias e registrar aprendizados.</description>
     <category>reflexões</category>
     <category>aprendizado</category>
+  </item>
+  <item>
+    <title>Cuidando de algumas coisas – o dia em que redesenhei a tela de atualização do Windows 10 Mobile</title>
+    <link>https://erickpaluan.com.br/blog/windows10-mobile-concept</link>
+    <guid isPermaLink="true">https://erickpaluan.com.br/blog/windows10-mobile-concept</guid>
+    <pubDate>Wed, 27 Jan 2016 12:00:00 GMT</pubDate>
+    <description>Em janeiro de 2016 redesenhei a tela de atualização do Windows 10 Mobile para unificá-la com o desktop, e um funcionário da Microsoft respondeu em 14 minutos.</description>
+    <category>design</category>
+    <category>projetos</category>
+    <category>carreira</category>
   </item>
 </channel>
 </rss>
