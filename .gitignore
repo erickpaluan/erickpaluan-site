@@ -1,3 +1,3 @@
-node_modules/
-.preview/
-.DS_Store
+.preview
+README.md
+node_modules
